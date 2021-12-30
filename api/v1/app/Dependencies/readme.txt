@@ -1,0 +1,1 @@
+Info : Incase we want to call a 3rd-Party library other than vendor libraries, we can put that 3rd-party class inside "Dependencies" folder and can be accessible from any other Modules by the use keywords.

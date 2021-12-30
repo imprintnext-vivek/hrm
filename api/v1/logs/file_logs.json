@@ -1,0 +1,3 @@
+{"message":"asdasdasd","context":[],"level":200,"level_name":"INFO","channel":"inkxe_logger","datetime":{"date":"2019-12-10 06:50:12.702235","timezone_type":3,"timezone":"Europe/Berlin"},"extra":[]}
+{"message":"asdasdasd","context":[],"level":200,"level_name":"INFO","channel":"inkxe_logger","datetime":{"date":"2019-12-10 06:50:18.140156","timezone_type":3,"timezone":"Europe/Berlin"},"extra":[]}
+{"message":"This is a test file Delete info","context":{"module":"Template","file_name":"213353459890.png","directory":"assets/template"},"level":200,"level_name":"INFO","channel":"inkxe_logger","datetime":{"date":"2019-12-10 06:52:22.659502","timezone_type":3,"timezone":"Europe/Berlin"},"extra":[]}

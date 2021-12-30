@@ -1,0 +1,3 @@
+{"message":"Category/Subcategory Save Exception","context":{"exception":"ass"},"level":400,"level_name":"ERROR","channel":"inkxe_logger","datetime":{"date":"2019-11-29 19:53:45.855989","timezone_type":3,"timezone":"Asia/Kolkata"},"extra":[]}
+{"message":"My logger is now ready","context":[],"level":200,"level_name":"INFO","channel":"inkxe_logger","datetime":{"date":"2019-12-10 05:57:40.762437","timezone_type":3,"timezone":"Europe/Berlin"},"extra":[]}
+{"message":"My logger is now ready","context":[],"level":200,"level_name":"INFO","channel":"inkxe_logger","datetime":{"date":"2019-12-10 05:58:07.456245","timezone_type":3,"timezone":"Europe/Berlin"},"extra":[]}

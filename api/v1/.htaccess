@@ -1,0 +1,10 @@
+RewriteEngine On
+
+Header add Access-Control-Allow-Methods "GET, POST, OPTIONS, DELETE, PUT"
+
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ %{ENV:BASE}index.php [QSA,L]
